@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @szx9898
+- 👀 I’m interested in game
+- 🌱 I’m currently learning python、golang etc...
